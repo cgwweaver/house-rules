@@ -18,7 +18,7 @@
 <br>
 
 
-## 2. Even if all targets illegal, spells/abilities resolve as much as they can
+## 2. *Even if chosen target(s) invalid at resolution, spells/abilities resolve as much as they can (they don't just totally fizzle/fail to resolve)*
 ***(short name: "resolve all")***
 
 - **Why?** feel bad, unintuitive (especially for new players)
