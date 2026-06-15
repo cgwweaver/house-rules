@@ -24,9 +24,9 @@
 ## 3. *Even if chosen target(s) invalid at resolution, spells/abilities resolve as much as they can (they don't just totally fizzle/fail to resolve)*
 ***(short name: "resolve-all")***
 
-- **Why?** feel-bad, unintuitive (especially for new players)
+- ***Why?** feel-bad, unintuitive (especially for new players)*
 
-- **Means:** you always draw the card off Expedite (instant with "Target creature gains haste until end of turn. Draw a card") - even if target not there when spell resolves.
+- **Means:** you always draw the card off Expedite ("Target creature gains haste until end of turn. Draw a card.") - even if target not there when spell resolves.
 
 - ***Auras with etbs?!?***
 
