@@ -3,7 +3,6 @@
 *Have fun!*
 
 <br>
-<br>
 
 
 ## 1. Mulligans
