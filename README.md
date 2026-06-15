@@ -27,7 +27,7 @@
 - ***Why?** feel-bad, unintuitive (especially for new players)*
 
 - **Examples:**
-  - *Expedite:* you always draw the card off *Expedite*, even if the targetted creatures's not there or illegal when the spell resolves. (If it's countered, you don't get the card.) (Expedite: "Target creature gains haste until end of turn. Draw a card.")
+  - *Expedite:* you always draw the card off *Expedite*, even if the targetted creatures's not there or illegal when the spell resolves. (If it's countered, you don't get the card.) (*Expedite: "Target creature gains haste until end of turn. Draw a card."*)
   - Cards with adventure: xxxxxxx
 
 <br>
