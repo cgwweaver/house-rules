@@ -10,13 +10,13 @@
 
 ## 2. Mulligans
 
-- **Why?** speed them up, smoothing (reduce one-sided games, flood/screw)
+- ***Why?** speed them up, smoothing (reduce one-sided games, flood/screw)*
 
 - **a) 'London-8':** always draw 8, tuck 1 if don't mull, 2 if mull once, etc. You end up with 7/6/5, always see 8.
 
 - **b) Shuffle after mulliganing over:** set aside mulled hand, draw fresh one right away. When got a hand you'll keep, then shuffle.
 
-- **c) 'Simultaneous':** don't wait for opponent's mull decision - tiny edge.
+- **c) 'Simultaneous':** don't wait for opponent's mull decision to declare yours - tiny edge...
 
 <br>
 
