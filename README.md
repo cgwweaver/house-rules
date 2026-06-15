@@ -26,9 +26,9 @@
 
 - ***Why?** feel-bad, unintuitive (especially for new players)*
 
-- **Means:** you always draw the card off Expedite, even if the targetted creatures's not there or illegal when the spell resolves. (Expedite: "Target creature gains haste until end of turn. Draw a card.")
-
-- ***Auras with etbs?!?***
+- **Examples:**
+  - *Expedite*: you always draw the card off *Expedite*, even if the targetted creatures's not there or illegal when the spell resolves. (If it's countered, you don't get the card.) (Expedite: "Target creature gains haste until end of turn. Draw a card.")
+  - Cards with adventure: 
 
 <br>
 
@@ -37,4 +37,13 @@
 ***(short name: "sorcery-one-chance")***
 
 - Means: 
+
+
+<br>
+
+<br>
+
+Mulligan Xtra 8?
+
+- ***Auras with etbs?!?***
 
