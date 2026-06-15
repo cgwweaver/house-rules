@@ -24,7 +24,7 @@
 ## 3. *Even if chosen target(s) invalid at resolution, spells/abilities resolve as much as they can (they don't just totally fizzle/fail to resolve)*
 ***(short name: "resolve-all")***
 
-- ***Why?** feel-bad, unintuitive (especially for new players)*
+- ***Why?** feel-bad, unintuitive (especially for new players),  punishing 
 
 - **Examples:**
   - *Expedite:* you always draw the card off *Expedite*, even if the targetted creatures's not there or illegal when the spell resolves. (If it's countered, you don't get the card.) *(Expedite: "Target creature gains haste until end of turn. Draw a card.")*
