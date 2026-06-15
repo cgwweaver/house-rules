@@ -1,11 +1,12 @@
 # Colin's house rules
 
-*Have fun!*
+
+## 1. *Have fun!*
 
 <br>
 
 
-## 1. Mulligans
+## 2. Mulligans
 
 - **Why?** speed them up, smoothing (reduce one-sided games, flood/screw)
 
@@ -18,8 +19,8 @@
 <br>
 
 
-## 2. *Even if chosen target(s) invalid at resolution, spells/abilities resolve as much as they can (they don't just totally fizzle/fail to resolve)*
-***(short name: "resolve all")***
+## 3. *Even if chosen target(s) invalid at resolution, spells/abilities resolve as much as they can (they don't just totally fizzle/fail to resolve)*
+***(short name: "resolve-all")***
 
 - **Why?** feel-bad, unintuitive (especially for new players)
 
@@ -30,8 +31,8 @@
 <br>
 
 
-## 3. One initial chance for sorcery speed abilities
-***(short name: "sorcery one chance")***
+## 4. *One initial chance for sorcery speed abilities*
+***(short name: "sorcery-one-chance")***
 
 - Means: 
 
