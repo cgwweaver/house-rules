@@ -26,7 +26,7 @@
 
 - ***Why?** feel-bad, unintuitive (especially for new players)*
 
-- **Means:** you always draw the card off Expedite ("Target creature gains haste until end of turn. Draw a card.") - even if target not there when spell resolves.
+- **Means:** you always draw the card off Expedite, even if the targetted creatures's not there or illegal when the spell resolves. (Expedite: "Target creature gains haste until end of turn. Draw a card.")
 
 - ***Auras with etbs?!?***
 
